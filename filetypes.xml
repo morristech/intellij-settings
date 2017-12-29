@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="*_at.cfg" type="Access Transformers File" />
+      <mapping ext="cfg" type="Access Transformers File" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".Dockerfile.swp" type="Docker file" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="password" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="SQL" />
+      <mapping pattern="NicknameService.java" type="XML" />
+    </extensionMap>
+  </component>
+</application>
