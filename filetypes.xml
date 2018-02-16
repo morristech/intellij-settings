@@ -17,6 +17,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="com" type="PLAIN_TEXT" />
       <mapping ext="password" type="PLAIN_TEXT" />
+      <mapping pattern="mariadbData" type="SQL" />
       <mapping ext="cnf" type="SQL" />
       <mapping pattern="NicknameService.java" type="XML" />
     </extensionMap>
