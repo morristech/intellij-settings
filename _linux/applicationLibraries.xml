@@ -1,7 +1,9 @@
 <application>
   <component name="libraryTable">
     <library name="R Skeletons">
-      <CLASSES />
+      <CLASSES>
+        <root url="file://$USER_HOME$/.IdeaIC2018.1/system/r_skeletons/1336621127" />
+      </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
