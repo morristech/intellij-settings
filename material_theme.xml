@@ -1,14 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.8.0" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="616161" />
+    <option name="accentColor" value="009688" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Plus-Minus" />
+    <option name="compactDropdowns" value="true" />
     <option name="userId" value="-1f18c3c6:164e8b0c705:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="overrideAccentColor" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
